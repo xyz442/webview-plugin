@@ -23,7 +23,7 @@
 -renamesourcefileattribute webview
 -keepattributes SourceFile,LineNumberTable
 
--keep class com.qihoo360.replugin.sample.webview.views.SimpleWebPage {
+-keep class com.xyz.replugin.sample.webview.views.SimpleWebPage {
   public *;
 }
 # ---------------------------------------------

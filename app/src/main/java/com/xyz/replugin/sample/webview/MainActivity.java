@@ -21,7 +21,6 @@ import android.os.Bundle;
 import android.view.Window;
 import android.widget.LinearLayout;
 
-import com.qihoo360.replugin.sample.webview.R;
 import com.xyz.replugin.sample.webview.views.SimpleWebPage;
 
 /**
