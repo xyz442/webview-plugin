@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 
     private SimpleWebPage mWP;
 
-    static final String testUrl = "www.baidu.com";
+    static final String testUrl = "https://github.com/xyz442/webview-plugin";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
